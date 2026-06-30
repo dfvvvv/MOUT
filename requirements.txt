@@ -1,0 +1,4 @@
+numpy==2.2.6
+pandas==2.3.3
+jmetalpy==1.8.0
+pymoo==0.6.1.6
